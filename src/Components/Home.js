@@ -208,7 +208,7 @@ function Home() {
       <div>
         <p className='project'>Project</p>
         <p className='para9'>E-Commerce in Online Grocery</p>
-        <a href='http://react.dinakaran.shop/' className='link'>WebCart Website</a>
+        <a href='https://next-e-commerce-blush.vercel.app/' className='link'>WebCart Website</a>
         <p className='para10'>The Online Grocery Website is a responsive e-commerce
            platform designed <br></br> using HTML, CSS, and React-Bootstrap for purchasing fresh
             vegetables and fruits. <br></br> It features a modern UI, product listing, shopping cart, 
@@ -250,7 +250,7 @@ function Home() {
         </div>
         <div className='secondpr'>
         <p className='para9'>Library Management System</p>
-        <a href='http://libratrack.dinakaran.shop/' className='link'>Libra Track Website</a>
+        <a href='https://libra-track-site.vercel.app/' className='link'>Libra Track Website</a>
         <p className='para10'>A web-based system built using MERN stack to manage books, users, and
           <br></br> borrowing activities efficiently. It includes user authentication, <br></br> book management,
            borrow/return tracking, and a search feature with a responsive UI using React-Bootstrap.</p>
@@ -285,7 +285,7 @@ function Home() {
         </div>
         <div className='secondpr'>
         <p className='para9'>Weather ForeCasting Website</p>
-        <a href='http://stromwatch.dinakaran.shop/' className='link'>StromWatch Website</a>
+        <a href='https://storm-watch.vercel.app/' className='link'>StromWatch Website</a>
         <p className='para10'>The Weather App is a responsive web application built using HTML, CSS, 
           and React-Bootstrap <br></br>that provides real-time weather updates. 
           It integrates with a weather API to display <br></br>temperature, 
